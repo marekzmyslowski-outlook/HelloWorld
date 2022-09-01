@@ -10,7 +10,7 @@ pool: Default
 
 variables:
   solution: '**/*.sln'
-  buildPlatform: 'x86'
+  buildPlatform: 'Any CPU'
   buildConfiguration: 'Debug'
 
 steps:
